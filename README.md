@@ -1,4 +1,4 @@
-# iss-api
+# ISS API
 
 ### Pulling information about ISS using the ISS API.
 
